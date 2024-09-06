@@ -17,4 +17,5 @@ node questao-3.js  // Para a questão 3
 ```
 
 Agradeço desde já!
-`Feito por Vinícius Lima da Silva Santos @villylss@gmail.com`
+
+*Feito por Vinícius Lima da Silva Santos @villylss@gmail.com*
