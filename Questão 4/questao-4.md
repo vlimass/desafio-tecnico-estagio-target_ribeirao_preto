@@ -15,5 +15,5 @@ Neste item, podemos notar que a sequência é dada por $n^2$, onde $n$ são apen
 ### e) 1, 1, 2, 3, 5, 8, ____
 Neste item, podemos notar que o número seguinte é sempre a soma dos dois anteriores (Fibonacci), logo o próximo elemento é o **13**.
 
-### f) 2, 10, 12, 16, 17, 18, 19, ____ <<<<<<<>>>>>>>
+### f) 2, 10, 12, 16, 17, 18, 19, ____
 Neste item, podemos notar que a sequência é dada por números que contém os dígitos $1$ ou $2$, logo o próximo elemento é o **20**. 
