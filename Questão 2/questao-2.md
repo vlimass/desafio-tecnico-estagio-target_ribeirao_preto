@@ -1,0 +1,5 @@
+### 2) Escreva um programa que verifique, em uma string, a existência da letra ‘a’, seja maiúscula ou minúscula, além de informar a quantidade de vezes em que ela ocorre. IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
+
+Nesse problema, para verificarmos a existência da letra 'a' e contabilizar quantas vezes ela ocorre, basta percorrermos cada caracter da string fornecida e atualizarmos uma variável de contagem, no caso a variável `count`. O único detalhe é, primeiramente, converter toda a string para letra minúscula (poderia ser maiúscula também), pois a letra 'a' pode ser maiúscula ou minúscula. O algoritmo desenvolvido, portanto, conta com complexidade de tempo $O(n)$, onde $n$ é o número de caracteres da string, pois é percorrido o loop para converter a string em letra minúscula ($O(n)$) e depois é percorrido um loop para verificação das letras 'a' (também $O(n)$); e complexidade de espaço $O(n), pois é armazenada a nova string `lowerCaseStr` de tamanho igual à string fornecida.
+
+*É possível verificar o algoritmo no código do arquivo `questao-2.js`*
